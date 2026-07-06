@@ -6,7 +6,6 @@ Repository ini berisi kumpulan solusi dan writeup hasil analisis beberapa challe
 
 ## Identitas
 
-| Keterangan | Isi |
 |------------|-----|
 | **Nama** | AISYAH NUR MAYA SILVIYANI |
 | **NIM** | 24.83.1068 |
