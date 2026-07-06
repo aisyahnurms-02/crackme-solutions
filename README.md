@@ -6,9 +6,11 @@ Repository ini berisi kumpulan solusi dan writeup hasil analisis beberapa challe
 
 ## Identitas
 
-| **Nama** | AISYAH NUR MAYA SILVIYANI |
-| **NIM** | 24.83.1068 |
-| **Kelas** | 24TK01 |
+**Nama** : AISYAH NUR MAYA SILVIYANI
+
+**NIM** : 24.83.1068
+
+**Kelas** : 24TK01
 
 ---
 
