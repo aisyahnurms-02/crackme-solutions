@@ -129,7 +129,7 @@ Password tersebut diperoleh melalui proses static analysis menggunakan Ghidra ta
 ## 1. Halaman Challenge
 
 <p align="center">
-<img src="images/challenge.png" width="900">
+<img src="cr3.png" width="900">
 </p>
 
 ---
@@ -137,7 +137,7 @@ Password tersebut diperoleh melalui proses static analysis menggunakan Ghidra ta
 ## 2. Analisis Menggunakan Ghidra
 
 <p align="center">
-<img src="images/ghidra-analysis.png" width="900">
+<img src="function menunjukan passwd.png" width="900">
 </p>
 
 ---
@@ -145,7 +145,7 @@ Password tersebut diperoleh melalui proses static analysis menggunakan Ghidra ta
 ## 3. Daftar Strings
 
 <p align="center">
-<img src="images/strings.png" width="900">
+<img src="function menunjukan passwd.png" width="900">
 </p>
 
 ---
@@ -170,5 +170,5 @@ Selama proses reverse engineering dipelajari beberapa hal berikut:
 # Password
 
 ```
-djieghrg
+djejie
 ```
