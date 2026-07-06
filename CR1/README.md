@@ -156,7 +156,7 @@ password = username + "0xjfkD2"
 > **Tambahkan screenshot halaman challenge dari Crackmes.one di sini**
 
 <p align="center">
-<img src="images/challenge.png" width="900">
+<img src="crackme.png" width="900">
 </p>
 
 ---
@@ -166,7 +166,7 @@ password = username + "0xjfkD2"
 > **Tambahkan screenshot Ghidra yang sudah diberi anotasi mengenai proses strcpy(), strcat(), dan strcmp().**
 
 <p align="center">
-<img src="images/ghidra-analysis.png" width="900">
+<img src="ghidra (function).png" width="900">
 </p>
 
 ---
@@ -176,7 +176,7 @@ password = username + "0xjfkD2"
 > **Tambahkan screenshot kode Python yang digunakan untuk memahami logika program.**
 
 <p align="center">
-<img src="images/python-convert.png" width="900">
+<img src="hasil.png" width="900">
 </p>
 
 ---
@@ -186,7 +186,7 @@ password = username + "0xjfkD2"
 > **Tambahkan screenshot hasil program yang menunjukkan password berhasil diterima.**
 
 <p align="center">
-<img src="images/result.png" width="900">
+<img src="hasil.png" width="900">
 </p>
 
 ---
